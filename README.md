@@ -73,6 +73,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspired by examples from [LangChain's Streamlit Agent](https://github.com/langchain-ai/streamlit-agent).
 - Utilizes the `StreamlitCallbackHandler` for real-time feedback during agent execution.
 
-## Contact
-
-For questions or feedback, please contact [your.email@example.com](mailto:your.email@example.com).
